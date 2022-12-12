@@ -13,7 +13,6 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 @Document("user_ratings")
-
 public class Rating {
 
 	@Id
